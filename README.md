@@ -8,7 +8,7 @@ This is basic **CRUD** API written in **node.js** using **TypeScript** with the 
 
  - [How to install](##How%20to%20install)
  - [Requirement](##Requirement)
- - [How to use](##How%20to%20use)
+ - [How to run](##How%20to%20run)
 
 ## How to install
 
@@ -38,7 +38,7 @@ git clone https://github.com/ntwsam/basic-nodejs-ts.git
 |id|name|price|discount|review_count|image_url|
 |--|------|------|-----------|-------------|-|
 | 1 | product 1 | 11.11 | 1.00 | 11 | https://example.com/image5.jpg
-| 1 | product 2 | 22.00 | 2.22 | 22 | https://example.com/image2.jpg
+| 2 | product 2 | 22.00 | 2.22 | 22 | https://example.com/image2.jpg
 
 ## How to run
 
